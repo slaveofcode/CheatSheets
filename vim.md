@@ -67,13 +67,14 @@ Vim Cheat Sheet
 
 ## Tabs
 
-| command | description |
-|---------|-------------|
-| :tabnew | create new tab
-| :tabn   | move to NEXT tab
-| :tabp   | move to PREVIOUS tab
-| :tabfir | goto FIRST tab
-| :tablas | goto LAST tab
+| command       | description |
+|---------------|-------------|
+| :tabe <path>  | open file in a new tab
+| :tabnew       | create new tab
+| :tabn         | move to NEXT tab
+| :tabp         | move to PREVIOUS tab
+| :tabfir       | goto FIRST tab
+| :tablas       | goto LAST tab
 
 ## Windows
 
